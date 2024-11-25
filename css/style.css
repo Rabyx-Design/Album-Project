@@ -1,0 +1,14 @@
+header{
+    height: 200px;
+    background-color: antiquewhite;
+}
+.hero{
+    min-height: 500px;
+    background-color: darkgoldenrod;
+}
+.intro {
+
+}
+.single{
+    background-color: bisque;
+}
