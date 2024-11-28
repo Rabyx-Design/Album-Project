@@ -1,14 +1,24 @@
-header{
-    height: 200px;
-    background-color: antiquewhite;
-}
-.hero{
-    min-height: 500px;
-    background-color: darkgoldenrod;
-}
-.intro {
+html{}
 
+.nav{
+    width: 1680px;
+    height: 60px;
+    flex-shrink: 0;
+    background: #FFF;
 }
-.single{
-    background-color: bisque;
+
+.hero-section{
+    max-width: 1200px;
+    height: 960px;
+    flex-shrink: 0;
+    background: var(--Actionable-Item, #18A0FB);
+}
+
+h1{
+    display: flex;
+    width: 1392px;
+    height: 80px;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
 }
