@@ -3,7 +3,7 @@ html{}
 body{
   font-family: "Montserrat", serif;
   font-optical-sizing: auto;
-  font-weight: weight;
+  font: weight 400px;;
   font-style: normal;
 }
 
