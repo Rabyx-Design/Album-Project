@@ -10,7 +10,7 @@ body{
 }
 
 .hero-section{
-    max-width: 1200px;
+    max-width: auto;
     height: 960px;
     flex-shrink: 0;
     background: var(--Actionable-Item, #18A0FB);
