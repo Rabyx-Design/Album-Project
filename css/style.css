@@ -1,5 +1,5 @@
 html{
-    color: var(--Actionable-Item, #18A0FB);
+    --actionable-color: #0bd448;
 }
 
 body{
@@ -9,13 +9,19 @@ body{
 .nav{
     width: 1680px;
     height: 60px;
+    background-color: aqua;
     flex-shrink: 0;
     display: flex;
 }
 
-.nav ul li{
+button{
+    font-size: 200px;
+    background-color: var(--actionable-color);
+}
+
+.nav ul li a{
     list-style-type: none;
-    text-decoration: none;
+    
 }
 
 .hero-section{
