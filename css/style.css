@@ -12,7 +12,7 @@ body{
     flex-shrink: 0;
 }
 
-.nav li{
+.nav ul li{
     list-style-type: none;
     text-decoration: none;
 }
