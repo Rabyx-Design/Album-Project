@@ -12,6 +12,11 @@ body{
     flex-shrink: 0;
 }
 
+.nav li{
+    list-style-type: none;
+    text-decoration: none;
+}
+
 .hero-section{
     max-width: auto;
     height: 960px;
