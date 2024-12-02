@@ -10,6 +10,7 @@ body{
     width: 1680px;
     height: 60px;
     flex-shrink: 0;
+    display: flex;
 }
 
 .nav ul li{
